@@ -1,5 +1,5 @@
 title-text: ""
-title-color: "#dadada"
+title-color: "#ffffff"
 title-font: "Comfortaa Bold 24"
 desktop-image: "background.png"
 terminal-font: "Comfortaa Bold 16"
@@ -14,7 +14,7 @@ terminal-height: "100%"
     height = 50
     width = 10%
     font = "Comfortaa Bold 36"
-    color = "#dadada"
+    color = "#ffffff"
     align = "left"
     text = "B O O T I N G"
 }
@@ -26,9 +26,9 @@ terminal-height: "100%"
     top = 13%
     height = 90%
     item_font = "Comfortaa Bold 18"
-    item_color = "#929292"
+    item_color = "#ffffff"
     selected_item_font = "Comfortaa Bold 18"
-    selected_item_color = "#dadada"
+    selected_item_color = "#00ff00"
     item_height = 25
     item_padding = 20
     item_spacing = 10
@@ -42,7 +42,7 @@ terminal-height: "100%"
     height = 25
     width = 600  
     font = "Comfortaa Bold 18"
-    color = "#dadada"
+    color = "#ffffff"
     align = "left"  
     text = "@KEYMAP_SHORT@"
 }
@@ -54,7 +54,7 @@ terminal-height: "100%"
     top = 100%
     height = 20
     text = "%d seconds left"
-    text_color = "#dadada"
+    text_color = "#ffffff"
     font = "Comfortaa Bold 18"
     bar_style = "progress_bar_*.png"
     highlight_style = "progress_highlight_*.png"
