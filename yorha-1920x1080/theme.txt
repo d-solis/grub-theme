@@ -16,18 +16,7 @@ terminal-height: "100%"
     font = "Comfortaa Bold 36"
     color = "#dadada"
     align = "left"
-    text = "L O A D I N G"
-}
-
-+ label {
-    left = 18%
-    top = 70
-    height = 50
-    width = 10%
-    font = "Comfortaa Bold 24"
-    color = "#dadada"
-    align = "left"
-    text = "- BOOTING SYSTEM . . ."
+    text = "B O O T I N G"
 }
 
 + boot_menu {
