@@ -1,1 +1,3 @@
 # SIVA GRUB theme
+
+##### Installation
