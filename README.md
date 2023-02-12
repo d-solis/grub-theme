@@ -14,9 +14,13 @@
 
 Copy the "siva" folder with root privileges to /boot/grub/themes/
 
-Edit /etc/default/grub and add:
+Edit /etc/default/grub and add:    (For Green Theme)
 ```
-GRUB_THEME=/boot/grub/themes/siva/theme.txt
+GRUB_THEME=/boot/grub/themes/sivagreen/theme.txt
+```
+Edit /etc/default/grub and add:    (For Red Theme)
+```
+GRUB_THEME=/boot/grub/themes/sivared/theme.txt
 ```
 Update grub (for everybody else) :
 ```
