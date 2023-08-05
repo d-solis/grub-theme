@@ -1,10 +1,19 @@
-# SIVA GRUB theme (Green)
+<h1 align="left">Custom Grub theme inspired by destiny
+
+
+<img src="https://img.shields.io/github/watchers/d-solis/grub-theme?color=%238AB4F8&labelColor=101012&label=watchers&style=for-the-badge" width=100 height=30 align="right" />
+<img src="https://img.shields.io/github/stars/d-solis/grub-theme?color=%238AB4F8&labelColor=101012&label=stars&style=for-the-badge" width=100 height=30 align="right" />
+
+</h1> 
+
+
+### SIVA GRUB theme (Green)
 
 ##### Preview
 
 ![20230205_092405](https://user-images.githubusercontent.com/43517199/217972292-4d7aa9db-c864-4cbf-8ad7-6fe8ad9ffb82.jpg)
 
-# SIVA GRUB theme (Red)
+### SIVA GRUB theme (Red)
 
 ##### Preview
 
@@ -32,4 +41,7 @@ Update grub (For arch users btw) :
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
-
+![image](https://raw.githubusercontent.com/d-solis/dotfiles/main/assets/cat.svg)
+<h3 align="center">
+Thanks for stopping by!
+</h3>
